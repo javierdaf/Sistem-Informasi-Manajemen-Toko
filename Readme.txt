@@ -21,5 +21,3 @@ Password : admin
 Login Kasir
 Username : kasir
 Password : kasir
-
-Raja Putra Media :)
