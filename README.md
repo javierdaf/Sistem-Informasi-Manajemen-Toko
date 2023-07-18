@@ -26,6 +26,6 @@ Aplikasi ini dibuat dengan:
 
 * Clone repositori ini
 * Buat database dengan nama **kasir**
-* Import file kasir.sql
+* Import file dbkasir.sql
 * Taruh project ini di htdocs
 
